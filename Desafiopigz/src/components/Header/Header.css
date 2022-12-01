@@ -1,0 +1,21 @@
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    margin: 4pt;
+    padding: 4pt;
+
+
+
+   
+}
+
+.button {
+
+    background-color: #FF881F;
+    border-radius: 8pt;
+    color: #FFFFFF;
+    box-shadow: 0 4pt 10pt #FF881F;
+    border-style: none;
+
+}

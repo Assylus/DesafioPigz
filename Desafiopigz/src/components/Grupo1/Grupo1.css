@@ -1,0 +1,35 @@
+
+.grupo1 { 
+    
+    background: linear-gradient(to bottom, #fa641e 0%, #ff881f 100%);
+    width: 100vw;
+    height: 1015pt;
+
+
+
+}
+
+.pigz {
+
+    display: flex;
+    justify-content: center;
+    height: 150pt;
+    width: 100%;
+    color: #FFFFFF;
+   
+    
+   
+    
+
+}
+
+.pigz h2 {
+
+    font-size: 15pt;
+   
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 15pt;
+}
