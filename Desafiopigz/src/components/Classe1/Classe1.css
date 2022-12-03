@@ -1,0 +1,36 @@
+.box {
+
+    background-color: #FAFAFA;
+    height: 183pt;
+    width: 183pt;
+    margin: auto;
+    margin-top: 10pt;
+    display: flex;
+    justify-content: center;
+    border-radius: 8pt;
+    flex-direction: column;
+
+
+
+}
+
+.box img {
+
+
+    height: 72pt;
+}
+
+
+.box p {
+
+    text-align: center;
+    font-size: 15pt;
+
+}
+
+.box h3 {
+
+    font-weight: bold;
+    text-align: center;
+    font-size: 20pt;
+}

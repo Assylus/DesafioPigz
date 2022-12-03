@@ -1,0 +1,17 @@
+.pigzao {
+
+    display: flex;
+    justify-content: center;
+    margin-top: -18%;
+
+}
+
+
+.text {
+
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 35pt;
+}

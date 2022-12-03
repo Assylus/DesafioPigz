@@ -3,7 +3,7 @@
     
     background: linear-gradient(to bottom, #fa641e 0%, #ff881f 100%);
     width: 100vw;
-    height: 1015pt;
+    height: 915pt;
 
 
 
@@ -29,7 +29,44 @@
    
 }
 
-p {
+.grupo1 p {
+    display: flex;
+    justify-content: center;
     color: #FFFFFF;
     font-size: 15pt;
+}
+
+
+div1 {
+    
+    background: #FFFFFF;
+    width: 250pt;
+    height: 547pt;
+    margin: auto;
+    margin-top: 10pt;
+    border-radius: 8pt;
+    display: grid;
+    grid-template-columns: auto;
+    font-size: 22pt;
+    text-align: center;
+
+    }
+
+h4 {
+    text-align: center;
+    font-size: 12pt;
+    margin-top: 0pt
+}
+
+button {
+    
+    background-color: #fa641e;
+    border-radius:  8pt;
+    border-style: none;
+    max-width: 200pt;
+    max-height: 100pt;
+    margin: auto;
+    font-size: 12pt;
+    padding: 5pt;
+    color: #FFFFFF;
 }
