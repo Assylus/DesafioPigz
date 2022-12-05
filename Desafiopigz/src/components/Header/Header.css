@@ -7,7 +7,7 @@
 
 
 
-   
+
 }
 
 .button {
@@ -18,5 +18,12 @@
     box-shadow: 0 4pt 10pt #FF881F;
     border-style: none;
     padding: 12pt;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5pt;
+    font-size: small;
+    height: 32pt;
+    width: 120pt;
+    align-items: center;
 
 }
