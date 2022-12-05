@@ -1,0 +1,25 @@
+.end {
+
+    background: linear-gradient(to bottom, #fa641e 0%, #ff881f 100%);
+    width: 100vw;
+    height: 300pt;
+    border-radius: 10pt;
+    display: flex;
+    align-items: center;
+    margin-top: 15pt;
+    flex-direction: column;
+
+
+}
+
+.end p {
+
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 10pt;
+}
+
+.end img {
+    margin-top: 36pt;
+    height: 200pt;
+}

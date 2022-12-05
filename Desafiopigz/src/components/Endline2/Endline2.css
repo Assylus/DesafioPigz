@@ -1,0 +1,22 @@
+.suporte {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+
+.suporte h3 {
+
+    font-size: 30pt;
+    margin-top: 10pt;
+}
+
+.suporte h7 {
+
+    margin-top: 15pt;
+    font-size: 15pt;
+    max-width: 270pt;
+}

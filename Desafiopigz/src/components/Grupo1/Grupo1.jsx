@@ -18,28 +18,20 @@ function Grupo1() {
                 <h3>Quero vender no Pigz</h3>
                 <h4>Dê o primeiro passo para aumentar suas vendas</h4>
 
-                <div2 className="formulario">
-                    <form>
-
-                        Nome
-                        <input type="text" name="name" />
-                    </form>
-
-                    <form>
-
-                        Email
-                        <input type="text" name="nome" />
-
-
-                    </form>
-                    <form>
-
-                        Telefone
-                        <input type="text" name="name" />
-
-
-                    </form>
-                </div2>
+                <form>
+                    <div>
+                        <label htmlFor="Nome">Nome</label>
+                        <input type="Nome" id="Nome" />
+                    </div>
+                    <div>
+                        <label htmlFor="Email">E-mail</label>
+                        <input type="Email" id="Email" />
+                    </div>
+                    <div>
+                        <label htmlFor="Telefone">Telefone</label>
+                        <input type="Telefone" id="Telefone" />
+                    </div>
+                </form>
 
                 <h6>Ao continuar, aceito que a Pigz entre em contato comigo por telefone, e-mail ou WhatsApp.</h6>
                 <button>Continuar</button>

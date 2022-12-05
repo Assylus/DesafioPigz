@@ -1,0 +1,10 @@
+.whats {
+
+    display: flex;
+
+    justify-content: space-between;
+    max-width: 200pt;
+    margin-left: 20pt;
+
+
+}

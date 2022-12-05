@@ -1,0 +1,96 @@
+.book {
+
+    background-color: #FAFAFA;
+    height: 500pt;
+    width: 100vw;
+    margin: auto;
+    margin-top: 10pt;
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    border-bottom: 4pt solid #FF671F;
+}
+
+.book img {
+
+    width: 80pt;
+}
+
+.book p {
+
+    color: #676767;
+    margin-top: 10pt;
+}
+
+.book h3 {
+
+    color: #676767;
+    margin-top: 10pt;
+    font-weight: 700;
+
+}
+
+
+.selo img {
+
+
+    height: 30pt;
+    width: 90pt;
+    margin-top: 10pt;
+
+}
+
+
+.fone {
+
+    display: flex;
+
+
+}
+
+.fone img {
+
+    height: 14pt;
+    width: 14pt;
+    margin-right: 10pt;
+
+}
+
+.icones img {
+
+    height: 19pt;
+    width: 19pt;
+    margin-right: 10pt;
+
+}
+
+hr {
+
+    margin-top: 50pt;
+}
+
+
+.final {
+
+    display: flex;
+
+
+
+}
+
+.final p {
+
+    margin-right: 15pt;
+}
+
+.copy {
+
+    display: flex;
+}
+
+.copy p {
+
+    font-size: .7em;
+    text-align: justify;
+    margin-right: 10pt;
+}

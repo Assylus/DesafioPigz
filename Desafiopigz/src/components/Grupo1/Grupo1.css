@@ -1,6 +1,5 @@
+.grupo1 {
 
-.grupo1 { 
-    
     background: linear-gradient(to bottom, #fa641e 0%, #ff881f 100%);
     width: 100vw;
     height: 915pt;
@@ -16,17 +15,17 @@
     height: 150pt;
     width: 100%;
     color: #FFFFFF;
-   
-    
-   
-    
+
+
+
+
 
 }
 
 .pigz h2 {
 
     font-size: 15pt;
-   
+
 }
 
 .grupo1 p {
@@ -38,7 +37,7 @@
 
 
 div1 {
-    
+
     background: #FFFFFF;
     width: 250pt;
     height: 547pt;
@@ -50,7 +49,7 @@ div1 {
     font-size: 22pt;
     text-align: center;
 
-    }
+}
 
 h4 {
     text-align: center;
@@ -59,9 +58,9 @@ h4 {
 }
 
 button {
-    
+
     background-color: #fa641e;
-    border-radius:  8pt;
+    border-radius: 8pt;
     border-style: none;
     max-width: 200pt;
     max-height: 100pt;
@@ -69,4 +68,37 @@ button {
     font-size: 12pt;
     padding: 5pt;
     color: #FFFFFF;
+}
+
+
+form {
+
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+form label {
+
+    display: flex;
+    margin-left: 20pt;
+    font-size: 12pt;
+
+}
+
+
+form input {
+
+    border-radius: 15pt;
+    width: 230pt;
+    height: 38pt;
+    font-size: 15pt;
+    padding-left: 10pt;
+    border-width: 1pt;
+    outline: none;
+
+
+
+
 }

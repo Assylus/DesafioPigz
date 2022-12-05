@@ -1,0 +1,25 @@
+.valor h3 {
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    font-size: 26pt;
+
+}
+
+.valor p {
+
+    text-align: center;
+    margin-top: 10pt;
+}
+
+
+.valor h4 {
+
+    margin-top: 20pt;
+    font-size: 29pt;
+
+
+}

@@ -8,6 +8,7 @@ function Classe4() {
             <h3>Vias de impressão</h3>
             <p>Personalizáveis</p>
 
+
         </div>
     )
 }

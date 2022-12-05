@@ -1,0 +1,46 @@
+.caixa {
+
+    background-color: #FAFAFA;
+    height: 250pt;
+    width: 250pt;
+    margin: auto;
+    margin-top: 10pt;
+    display: flex;
+    border-radius: 8pt;
+    flex-direction: column;
+
+}
+
+
+.caixa h3 {
+
+    font-size: 20pt;
+    margin-top: 10pt;
+}
+
+
+.caixa h9 {
+
+    margin-top: 10pt;
+    color: #666666;
+
+
+}
+
+
+.caixa p {
+
+    text-align: justify;
+    max-width: 180pt;
+    margin-top: 15pt;
+}
+
+
+.caixa button {
+
+    background: linear-gradient(to bottom, #fa641e 0%, #ff881f 100%);
+    box-shadow: 0 4pt 10pt #FF881F;
+    width: 200pt;
+    height: 40pt;
+
+}
